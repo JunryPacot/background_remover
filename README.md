@@ -9,7 +9,7 @@ A simple Flask app that allows users to upload an image and remove its backgroun
 
 ## 🚀 How to Run Locally
 
-## bash
+bash
 
 git clone https://github.com/JunryPacot/background_remover.git
 cd background_remover
